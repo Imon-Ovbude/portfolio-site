@@ -18,7 +18,7 @@ export const GridContainer = styled.section`
     display: flex;
     flex-direction: column;
     padding: 2rem;
-    padding-bottom: 0;
+    padding-bottom: 2rem;
   }
 `;
 export const BlogCard = styled.div`
@@ -71,6 +71,8 @@ export const CardInfo = styled.p`
   text-align: justify;
   @media ${props => props.theme.breakpoints.sm} {
     padding: 0.3rem;
+    margin-bottom: 1rem;
+    text-align: center;
   }
 `;
 
