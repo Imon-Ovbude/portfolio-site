@@ -6,7 +6,7 @@ export const projects = [
     image: '/images/symposium-screenshot.png',
     tags: ['MySql', 'Express', 'React', 'Redux', 'Node'],
     source: 'https://github.com/labs11-social-board/labs11_social_boardFE',
-    visit: 'https://google.com',
+    visit: 'https://symposium3.netlify.com/',
     id: 0,
   },
   {
@@ -15,7 +15,7 @@ export const projects = [
     image: '/images/refugee-screenshot.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/build-week-refugee-stories/refugee-imon',
-    visit: 'https://google.com',
+    visit: 'https://refugee-site.herokuapp.com/',
     id: 1,
   },
   {
@@ -24,7 +24,7 @@ export const projects = [
     image: '/images/ics.jpg',
     tags: ['JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/imon3/computer',
-    visit: 'https://google.com',
+    visit: 'https://imon-ovbude.github.io/computer-website/',
     id: 2,
   },
   {
@@ -33,7 +33,7 @@ export const projects = [
     image: '/images/sean.jpg',
     tags: ['JavaScript', 'HTML', 'CSS'],
     source: 'https://github.com/imon3/musicsite',
-    visit: 'https://google.com',
+    visit: 'https://imon-ovbude.github.io/fan-website/',
     id: 3,
   },
 ];
