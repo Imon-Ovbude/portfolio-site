@@ -10,11 +10,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Refugee Project',
-    description: 'This site shows refugee stories visitors can read.',
-    image: '/images/refugee-screenshot.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://github.com/build-week-refugee-stories/refugee-imon',
+    title: 'Car Service Site',
+    description:
+      'Visitors can check services that can be performed and setup an appointment.',
+    image: '/images/carsite.png',
+    tags: ['JavaScript', 'SCSS', 'HTML'],
+    source: 'https://github.com/Imon-Ovbude/car-site',
     visit: 'https://refugee-site.herokuapp.com/',
     id: 1,
   },
