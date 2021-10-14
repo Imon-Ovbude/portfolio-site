@@ -16,7 +16,7 @@ export const projects = [
     image: '/images/carsite.png',
     tags: ['JavaScript', 'SCSS', 'HTML'],
     source: 'https://github.com/Imon-Ovbude/car-site',
-    visit: 'https://refugee-site.herokuapp.com/',
+    visit: 'https://car-service-site.netlify.app/',
     id: 1,
   },
   {
